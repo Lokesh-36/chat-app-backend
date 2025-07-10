@@ -22,7 +22,7 @@ const allowedOrigins = [
   "https://chat-app-frontend.vercel.app",
   "https://chat-app-frontend-git-main-lokesh-36s-projects.vercel.app",
   "https://chat-app-frontend-three-liard.vercel.app",
-  "https://chat-app-frontend-8s6saenjz-lokesh-36s-projects.vercel.app/"
+  "https://chat-app-frontend-8s6saenjz-lokesh-36s-projects.vercel.app"
 ];
 
 app.use(
